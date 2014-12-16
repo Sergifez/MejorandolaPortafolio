@@ -1,1 +1,3 @@
-Archivo README.txt de ensayo.
+Archivo README.txt de ensayo
+
+Este es un documento de README de prueba del proyecto.
